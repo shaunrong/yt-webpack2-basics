@@ -1,4 +1,6 @@
-import {secretParagraph, secretButton} from './dom-loader.js'
+import '../css/input-elements.css';
+import '../css/main.css';
+import {secretParagraph, secretButton} from './dom-loader.js';
 
 var showSecret = false;
 
